@@ -1,0 +1,13 @@
+{
+  "name": "@query-builder-kit/core",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
+  }
+}
