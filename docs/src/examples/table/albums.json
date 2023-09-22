@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Born to Die",
+    "artist": ["Lana Del Rey"],
+    "releasedAt": "2012-01-27T00:00:00Z",
+    "genres": ["Pop"],
+    "rates": 4
+  },
+  {
+    "title": "Homogenic",
+    "artist": ["Björk"],
+    "releasedAt": "1997-09-22T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 5
+  },
+  {
+    "title": "Isolation",
+    "artist": ["Kali Uchis"],
+    "releasedAt": "2018-04-06T00:00:00Z",
+    "genres": ["R&B", "Pop"],
+    "rates": 4
+  },
+  {
+    "title": "1989",
+    "artist": ["Taylor Swift"],
+    "releasedAt": "2014-10-27T00:00:00Z",
+    "genres": ["Pop"],
+    "rates": 4
+  },
+  {
+    "title": "Take Care",
+    "artist": ["Drake"],
+    "releasedAt": "2011-11-15T00:00:00Z",
+    "genres": ["Hip-Hop", "R&B"],
+    "rates": 4
+  },
+  {
+    "title": "Melodrama",
+    "artist": ["Lorde"],
+    "releasedAt": "2017-06-16T00:00:00Z",
+    "genres": ["Pop", "Electropop"],
+    "rates": 5
+  },
+  {
+    "title": "Emotion",
+    "artist": ["Carly Rae Jepsen"],
+    "releasedAt": "2015-06-24T00:00:00Z",
+    "genres": ["Pop"],
+    "rates": 4
+  },
+  {
+    "title": "Blackout",
+    "artist": ["Britney Spears"],
+    "releasedAt": "2007-10-25T00:00:00Z",
+    "genres": ["Pop", "Electropop"],
+    "rates": 4
+  },
+  {
+    "title": "Last Year Was Complicated",
+    "artist": ["Nick Jonas"],
+    "releasedAt": "2016-06-10T00:00:00Z",
+    "genres": ["Pop", "R&B"],
+    "rates": 3
+  },
+  {
+    "title": "Arular",
+    "artist": ["M.I.A."],
+    "releasedAt": "2005-03-22T00:00:00Z",
+    "genres": ["Electronic", "Hip-Hop"],
+    "rates": 4
+  },
+  {
+    "title": "Like a Prayer",
+    "artist": ["Madonna"],
+    "releasedAt": "1989-03-21T00:00:00Z",
+    "genres": ["Pop", "Dance"],
+    "rates": 5
+  },
+  {
+    "title": "Laundry Service",
+    "artist": ["Shakira"],
+    "releasedAt": "2001-11-13T00:00:00Z",
+    "genres": ["Pop", "Rock"],
+    "rates": 4
+  },
+  {
+    "title": "Like a Prayer",
+    "artist": ["Madonna"],
+    "releasedAt": "1989-03-21T00:00:00Z",
+    "genres": ["Pop", "Dance"],
+    "rates": 5
+  },
+  {
+    "title": "The Fame",
+    "artist": ["Lady Gaga"],
+    "releasedAt": "2008-08-19T00:00:00Z",
+    "genres": ["Pop", "Electronic"],
+    "rates": 4
+  },
+  {
+    "title": "Back to Black",
+    "artist": ["Amy Winehouse"],
+    "releasedAt": "2006-10-27T00:00:00Z",
+    "genres": ["Soul", "R&B"],
+    "rates": 5
+  },
+  {
+    "title": "Random Access Memories",
+    "artist": ["Daft Punk"],
+    "releasedAt": "2013-05-17T00:00:00Z",
+    "genres": ["Electronic", "Disco"],
+    "rates": 5
+  },
+  {
+    "title": "21",
+    "artist": ["Adele"],
+    "releasedAt": "2011-01-19T00:00:00Z",
+    "genres": ["Pop", "Soul"],
+    "rates": 4
+  },
+  {
+    "title": "Blonde",
+    "artist": ["Frank Ocean"],
+    "releasedAt": "2016-08-20T00:00:00Z",
+    "genres": ["R&B", "Experimental"],
+    "rates": 5
+  },
+  {
+    "title": "Songs in the Key of Life",
+    "artist": ["Stevie Wonder"],
+    "releasedAt": "1976-09-28T00:00:00Z",
+    "genres": ["Soul", "Funk"],
+    "rates": 5
+  },
+  {
+    "title": "A Night at the Opera",
+    "artist": ["Queen"],
+    "releasedAt": "1975-11-21T00:00:00Z",
+    "genres": ["Rock"],
+    "rates": 4
+  },
+  {
+    "title": "The Wall",
+    "artist": ["Pink Floyd"],
+    "releasedAt": "1979-11-30T00:00:00Z",
+    "genres": ["Rock"],
+    "rates": 5
+  },
+  {
+    "title": "Backspacer",
+    "artist": ["Pearl Jam"],
+    "releasedAt": "2009-09-20T00:00:00Z",
+    "genres": ["Rock", "Alternative"],
+    "rates": 4
+  },
+  {
+    "title": "Hozier",
+    "artist": ["Hozier"],
+    "releasedAt": "2014-09-19T00:00:00Z",
+    "genres": ["Indie", "Rock", "Soul"],
+    "rates": 3
+  },
+  {
+    "title": "Prometo",
+    "artist": ["Pablo Alborán"],
+    "releasedAt": "2017-11-17T00:00:00Z",
+    "genres": ["Pop", "Latin"],
+    "rates": 5
+  },
+  {
+    "title": "El Mal Querer",
+    "artist": ["Rosalía"],
+    "releasedAt": "2018-11-02T00:00:00Z",
+    "genres": ["Pop", "Flamenco"],
+    "rates": 5
+  },
+  {
+    "title": "Palabras del Silencio",
+    "artist": ["Luis Fonsi"],
+    "releasedAt": "2008-08-26T00:00:00Z",
+    "genres": ["Latin", "Pop"],
+    "rates": 4
+  },
+  {
+    "title": "Fijación Oral, Vol. 1",
+    "artist": ["Shakira"],
+    "releasedAt": "2005-06-06T00:00:00Z",
+    "genres": ["Pop", "Latin"],
+    "rates": 4
+  },
+  {
+    "title": "Debut",
+    "artist": ["Björk"],
+    "releasedAt": "1993-07-05T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 4
+  },
+  {
+    "title": "Post",
+    "artist": ["Björk"],
+    "releasedAt": "1995-06-13T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 4
+  },
+  {
+    "title": "Vespertine",
+    "artist": ["Björk"],
+    "releasedAt": "2001-08-27T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 5
+  },
+  {
+    "title": "Medúlla",
+    "artist": ["Björk"],
+    "releasedAt": "2004-08-30T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 3
+  },
+  {
+    "title": "Volta",
+    "artist": ["Björk"],
+    "releasedAt": "2007-05-04T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 4
+  },
+  {
+    "title": "Biophilia",
+    "artist": ["Björk"],
+    "releasedAt": "2011-09-30T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 2
+  },
+  {
+    "title": "Vulnicura",
+    "artist": ["Björk"],
+    "releasedAt": "2015-01-20T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 4
+  },
+  {
+    "title": "Utopia",
+    "artist": ["Björk"],
+    "releasedAt": "2017-11-24T00:00:00Z",
+    "genres": ["Electronic", "Experimental"],
+    "rates": 3
+  },
+  {
+    "title": "Ultraviolence",
+    "artist": ["Lana Del Rey"],
+    "releasedAt": "2014-06-13T00:00:00Z",
+    "genres": ["Alternative", "Indie"],
+    "rates": 4
+  },
+  {
+    "title": "Honeymoon",
+    "artist": ["Lana Del Rey"],
+    "releasedAt": "2015-09-18T00:00:00Z",
+    "genres": ["Alternative", "Indie"],
+    "rates": 4
+  },
+  {
+    "title": "Lust for Life",
+    "artist": ["Lana Del Rey"],
+    "releasedAt": "2017-07-21T00:00:00Z",
+    "genres": ["Alternative", "Indie"],
+    "rates": 4
+  },
+  {
+    "title": "Norman Fucking Rockwell!",
+    "artist": ["Lana Del Rey"],
+    "releasedAt": "2019-08-30T00:00:00Z",
+    "genres": ["Alternative", "Indie"],
+    "rates": 5
+  },
+  {
+    "title": "Chemtrails over the Country Club",
+    "artist": ["Lana Del Rey"],
+    "releasedAt": "2021-03-19T00:00:00Z",
+    "genres": ["Alternative", "Indie"],
+    "rates": 4
+  },
+  {
+    "title": "Un Día Normal",
+    "artist": ["Juanes"],
+    "releasedAt": "2002-05-21T00:00:00Z",
+    "genres": ["Latin", "Pop", "Rock"],
+    "rates": 4
+  }
+]
